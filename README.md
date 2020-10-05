@@ -31,7 +31,7 @@ Try a demo of `Cauldron.js` on <https://cauldron.vantezzen.io> or [install it on
 
 1. Clone this project
    ```
-   git clone https://github.com/vantezzen/cauldron-js.git
+   git clone https://github.com/rdp-studio/cauldron-js.git
    ```
 2. Use `yarn` to install its dependecies
    ```
